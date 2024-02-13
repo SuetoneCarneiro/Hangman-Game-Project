@@ -1,0 +1,12 @@
+caneta;Objeto
+chocolate;Comida
+austria;País
+panela;Objeto
+melancia;Comida
+chile;País
+colher de pau;Objeto
+sanduiche;Comida
+republica dominicana;País
+vassoura;Objeto
+frango assado;Comida
+venezuela;País

@@ -1,0 +1,16 @@
+Regras do jogo:
+
+A palavra será exibida com underlines "_" para cada caracter que será adivinhado. 
+
+Você poderá errar até 6 vezes em cada palavra que tentar adivinhar. Para cada erro uma parte do corpo do boneco será exibida como resultado:
+
+*1º Erro (Cabeça)                       
+*2º Erro (Cabeça e tronco)                    
+*3º Erro (Cabeça, tronco e um branço)
+*4º Erro (Cabeça, tronco e dois braços)
+*5º Erro (Cabeça, tronco, dois braços e uma perna)
+*6º Erro (Cabeça, tronco, dois braços e duas pernas)
+
+Dessa forma teremos exibido o corpo inteiro se você errar em todas as tentativas!
+
+Importante: sua pontuação só é contabilizada se você acertar a palavra inteira.
